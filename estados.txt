@@ -1,0 +1,27 @@
+Acre                     Rio Branco               0								               
+Amapa                    Macapa                   0
+Amazonas                 Manaus                   0
+Para                     Belem                    0
+Rondonia                 Porto Velho              0
+Roraima                  Boa Vista                0
+Tocantins                Palmas                   0 
+Alagoas                  Maceio                   0
+Bahia                    Salvador                 0
+Ceara                    Fortaleza                0
+Maranhao                 Sao Luis                 0
+Paraiba                  Joao Pessoa              0
+Pernambuco               Recife                   0                  
+Piaui                    Teresina                 0
+Rio Grande do Norte      Natal                    0 
+Sergipe                  Aracaju                  0
+Goias                    Goiania                  0
+Mato Grosso              Cuiaba                   0
+Mato Grosso do Sul       Campo Grande             0
+Espirito Santo           Vitoria		  0
+Minas Gerais             Belo Horizonte		  0	
+Sao Paulo                Sao Paulo		  0
+Rio de Janeiro           Rio de Janeiro		  0
+Parana                   Curitiba		  0
+Rio Grande do Sul        Porto Alegre		  0
+Santa Catarina           Florianopolis		  0
+Distrito Federal         Brasilia
